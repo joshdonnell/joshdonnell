@@ -7,8 +7,9 @@ I'm a fullstack software engineer at Netwatch Global with over 10 years of exper
 I work primarily in the Laravel ecosystem, building applications with Inertia, Vue, and Nuxt. Outside of my day job, I contribute to open source, most notably Nuno Maduro's starter kits. I ported his Vue kit over and continue to maintain all of those kits.
 
 * 🌍  I'm based in Derbyshire, UK 🇬🇧
-* 💼  Fullstack Software Engineer at Netwatch Global, working on Laravel applications, internal tooling, and packages.
-* 🌱  Contributing to open source, primarily Nuno Maduro's starter kits — I ported his Vue kit over.
-* 🧠  Currently learning more about applied AI, Node, and edge workflows with Laravel queues.
+* 💼  Fullstack Software Engineer at Netwatch Global, working with Laravel, Inertia and Vue + AI.
+* ⛳  Currently building Drilvo a app for golfer's to practise with a purpose.
+* 🌱  Contributing to open source, primarily Nuno Maduro's starter kits, I ported his Vue kit over.
+* 🧠  Currently learning more about applied AI, with ther use of Node and edge workflows implimented via Laravel jobs/queues.
 * 🤝  Happy to collaborate on anything Laravel, Vue, or Nuxt related.
 * ✉️  You can reach me on [X](https://x.com/developedbyjosh) or [LinkedIn](https://www.linkedin.com/in/josh-donnell-17b939296/).
